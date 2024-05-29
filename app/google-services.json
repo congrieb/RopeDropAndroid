@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238419792254",
+    "project_id": "ropedrop-89952",
+    "storage_bucket": "ropedrop-89952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238419792254:android:f46ab8c866daa2999c232f",
+        "android_client_info": {
+          "package_name": "com.example.ropedrop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLzZtES6M-z_aYvDnhXd30SMw0Js_OQa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
